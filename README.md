@@ -2,7 +2,6 @@
 
 使用此存储库来提问或留下有关IBM Developer中文网站及其内容，社区和提供的各种计划的反馈。
 
-To ask a question or leave feedback, simply open an issue; a member of the IBM Developer team will respond.
 要提出问题或留下反馈，您只需提交一个问题（issue）即可； IBM Developer 团队的成员将做出回应。
 
 
